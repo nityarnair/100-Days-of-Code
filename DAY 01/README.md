@@ -1,6 +1,6 @@
 # Day 1 - Band Name Generator 
 
-This is my **Day 1** project from **Angela Yu's 100 Days of Code: Python Bootcamp**.
+This is my **Day 1** project.
 
 ## What it does
 - Asks for the city you grew up in.
