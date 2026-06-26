@@ -3,3 +3,5 @@
 
 Welcome to my repository for the 100 Days of Code challenge. 
 This project serves as a daily log and code archive to build a strong foundation in Python programming through consistent, practical practice.
+
+[DAY 01](DAY%2001)
