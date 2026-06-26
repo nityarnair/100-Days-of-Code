@@ -1,5 +1,5 @@
-<video src="https://github.com/user-attachments/assets/148024aa-ce6b-4c0f-a374-2cb3a18d1f54" width="100%" controls>
-</video>
+<img width="774" height="312" alt="day1 gif" src="https://github.com/user-attachments/assets/895e345d-8f1e-4a66-98fb-9326ce803a85" />
+
 
 
 
