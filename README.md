@@ -7,4 +7,5 @@ This project serves as a daily log and code archive to build a strong foundation
 **BEGINNER**
 
 [DAY 01](DAY%2001) : Working with Variables in Python to Manage Data\
-[DAY 02](DAY%2002) : Understanding Data Types and How to Manipulate Strings
+[DAY 02](DAY%2002) : Understanding Data Types and How to Manipulate Strings\
+[DAY 003](DAY%2003) : Control Flow and Logical Operators
