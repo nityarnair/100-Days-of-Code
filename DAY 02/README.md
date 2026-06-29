@@ -13,7 +13,7 @@ This is my **Day 2** project.
 - Rounding numbers
 
 ---
-<img width="774" height="312" alt="day2 gif" src="https://github.com/user-attachments/assets/e2b2e098-8f6b-4d82-83fe-47d017cfa072"/>
+<img width="800" height="248" alt="day2 gif" src="https://github.com/user-attachments/assets/904ef984-29e6-40a7-905b-0d5482aefaec" />
 
 
 
