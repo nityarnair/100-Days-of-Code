@@ -10,6 +10,6 @@ This project serves as a daily log and code archive to build a strong foundation
 [DAY 02](DAY%2002) : Understanding Data Types and How to Manipulate Strings\
 [DAY 03](DAY%2003) : Control Flow and Logical Operators\
 [DAY 04](DAY%2004) : Randomisation and Python Lists\
-[DAY 05](DAY%2005) : Python Loops\
+[DAY 05](DAY%2005) : Python Loops
 
 
