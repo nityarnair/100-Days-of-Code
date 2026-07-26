@@ -20,5 +20,6 @@ This is my **Day 5** project.
 ```
 
 ---
-<img width="800" height="285" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2ff0b55a-1f1f-4ecd-9ca6-5f39bff21376" />
+<img width="400" height="143" alt="passwordgen" src="https://github.com/user-attachments/assets/41147ee4-a190-4964-ab73-83a8da3b0561" />
+
 
