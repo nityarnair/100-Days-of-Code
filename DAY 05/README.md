@@ -20,4 +20,4 @@ This is my **Day 5** project.
 ```
 
 ---
-<img width="800" height="285" alt="PasswordGen" src="https://github.com/user-attachments/assets/a0bf355c-33c7-41ef-a9c9-e998706e0cbd" />
+<img width="800" height="285" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/f148044b-25a7-4c05-9c73-dd076f4b7524" />
