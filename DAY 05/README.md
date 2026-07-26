@@ -20,6 +20,8 @@ This is my **Day 5** project.
 ```
 
 ---
-<img width="400" height="143" alt="passwordgen" src="https://github.com/user-attachments/assets/41147ee4-a190-4964-ab73-83a8da3b0561" />
+
+
+![Password Generator Demo](https://github.com/user-attachments/assets/41147ee4-a190-4964-ab73-83a8da3b0561)
 
 
