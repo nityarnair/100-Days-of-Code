@@ -22,6 +22,5 @@ This is my **Day 5** project.
 ---
 
 
-![Password Generator Demo](https://github.com/user-attachments/assets/41147ee4-a190-4964-ab73-83a8da3b0561)
 
 
