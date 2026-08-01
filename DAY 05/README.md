@@ -19,7 +19,8 @@ This is my **Day 5** project.
 - Variables and list operations
 ```
 
----
+<img width="480" height="172" alt="passwordgen (1)" src="https://github.com/user-attachments/assets/095a27b6-b882-4b9d-888a-4313655a31e9" />
+
 
 
 
