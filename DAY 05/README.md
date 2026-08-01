@@ -17,9 +17,9 @@ This is my **Day 5** project.
 - String manipulation
 - User input
 - Variables and list operations
-```
 
-<img width="480" height="172" alt="passwordgen (1)" src="https://github.com/user-attachments/assets/095a27b6-b882-4b9d-888a-4313655a31e9" />
+<img width="800" height="285" alt="Pi7_GIF_CMP" src="https://github.com/user-attachments/assets/8f17bc62-f31f-4607-bf96-084a96d61b34" />
+
 
 
 
